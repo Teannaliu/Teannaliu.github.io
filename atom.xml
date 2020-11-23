@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>随遇而安</title>
+  
+  
+  <link href="http://www.baidu.com/atom.xml" rel="self"/>
+  
+  <link href="http://www.baidu.com/"/>
+  <updated>2020-11-23T15:40:56.534Z</updated>
+  <id>http://www.baidu.com/</id>
+  
+  <author>
+    <name>ZY</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>学习模板</title>
+    <link href="http://www.baidu.com/2020/11/23/hello-world/"/>
+    <id>http://www.baidu.com/2020/11/23/hello-world/</id>
+    <published>2020-11-23T13:11:37.324Z</published>
+    <updated>2020-11-23T15:40:56.534Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Linux命令</title>
+    <link href="http://www.baidu.com/2019/01/20/linnx/"/>
+    <id>http://www.baidu.com/2019/01/20/linnx/</id>
+    <published>2019-01-20T13:11:00.000Z</published>
+    <updated>2020-11-23T15:39:50.299Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;1、pwd-查看当前光标所在目录-路径&quot;&gt;&lt;a href=&quot;#1、pwd-查看当前光标所在目录-路径&quot; class=&quot;headerlink&quot; title=&quot;1、pwd  查看当前光标所在目录/路径&quot;&gt;&lt;/a&gt;1、pwd </summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
